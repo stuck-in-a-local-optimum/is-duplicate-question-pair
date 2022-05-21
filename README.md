@@ -4,8 +4,8 @@
  
 - [Approach1](https://github.com/stuck-in-local-optimum/qoura-questn-pairs/blob/main/src/bow-with-basic-features.ipynb) : BOW WITH BASIC FEATURES
  
--Initial models were trained on 6007 features <br>
--used 3000 bow features for q1 + 3000 bow features of q2
+- used 6007 features
+- 3000 bow features for q1 + 3000 bow features of q2
  
  -used following 7 additional features inspired from different kaggle notebooks:
  1) q1_len   -> char of length of q1
