@@ -2,7 +2,7 @@
  This is a NLP project to solve kaggle competition 'Duplicate question pair' by qoura
  
  
- ----------Approach1: with Basic Features--------
+- ##[Approach1] : with Basic Features--------
  
 -Initial models were trained on 6007 features
 -used 3000 bow features for q1 + 3000 bow features of q1
