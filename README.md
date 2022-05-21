@@ -26,3 +26,4 @@ Word_common                       |  Word_total                      |          
 :--------------------------------:|:--------------------------------:|:--------------------------------: 
 <img width="389" alt="Screenshot 2022-05-22 at 01 03 57" src="https://user-images.githubusercontent.com/55681180/169666624-8597945b-9add-44f6-abb1-cab5f4c8c0a7.png">  | <img width="390" alt="Screenshot 2022-05-22 at 01 20 06" src="https://user-images.githubusercontent.com/55681180/169667007-98243566-be21-4ede-8da3-92b7738fe3a2.png"> | <img width="389" alt="Screenshot 2022-05-22 at 01 18 05" src="https://user-images.githubusercontent.com/55681180/169666948-5207561b-d074-4ce4-86a7-6a92a097bd1f.png">
 
+- Above we can see, if the value of word_common for a sample is <=4 then there is high probability for the pair to be non_duplicate vice-versa
