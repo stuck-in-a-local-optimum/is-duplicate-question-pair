@@ -2,7 +2,7 @@
  This is a NLP project to solve kaggle competition 'Duplicate question pair' by qoura
  
  
-- [Approach1](https://github.com/stuck-in-local-optimum/qoura-questn-pairs/blob/main/src/bow-with-basic-features.ipynb) : with Basic Features--------
+- [Approach1](https://github.com/stuck-in-local-optimum/qoura-questn-pairs/blob/main/src/bow-with-basic-features.ipynb) : bow with Basic Features--------
  
 -Initial models were trained on 6007 features <br>
 -used 3000 bow features for q1 + 3000 bow features of q2
