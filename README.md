@@ -30,3 +30,6 @@ word_common                       |  word_total                      |          
 - if the value of word_total for a sample <=20 then there is high probability for the pair to be duplicate pair
 - if the value fo word_share is <=0.2 then probability of non_duplicate pair is higher
 
+
+- ## [Final Approach]()
+
