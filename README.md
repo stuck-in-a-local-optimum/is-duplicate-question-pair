@@ -61,4 +61,9 @@ word_common                       |  word_total                      |          
    - fuzz_partial_ratio : fuzz_partial_ratio from fuzzywuzzy library
    - token_sort_ratio   : token_sort_ratio from fuzzywuzzy library
    - token_set_ratio    : token_set_ratio from fuzzywuzzy library
+  
+  - EDA ON THESE ADVANCED FEATURES
+  <img width="612" alt="Screenshot 2022-05-22 at 17 25 08" src="https://user-images.githubusercontent.com/55681180/169694625-b6f1e6bb-55bd-4eee-911d-9195c7e89691.png">
+    - In the above figure, from diagonal plots we can argue that ctc_min, cwc_min, and csc_min are useful features since they are able to classifiy the duplicate and non-duplicate question pairs to some extent.
+
 
