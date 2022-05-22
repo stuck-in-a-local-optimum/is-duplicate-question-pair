@@ -62,8 +62,15 @@ word_common                       |  word_total                      |          
    - token_sort_ratio   : token_sort_ratio from fuzzywuzzy library
    - token_set_ratio    : token_set_ratio from fuzzywuzzy library
   
+  
+  word_common                       |  word_total                      |                  word_share
+:--------------------------------:|:--------------------------------:|:--------------------------------: 
+<img width="612" alt="Screenshot 2022-05-22 at 17 25 08" src="https://user-images.githubusercontent.com/55681180/169694837-cef2d5ac-ea1c-4bc9-bbd1-68c368c398e8.png"> | <img width="612" alt="Screenshot 2022-05-22 at 17 52 24" src="https://user-images.githubusercontent.com/55681180/169694910-6c979e2b-e849-49c0-8f42-4f0500ae57f5.png">  | 
+
+
+  
   - EDA ON THESE ADVANCED FEATURES
   <img width="612" alt="Screenshot 2022-05-22 at 17 25 08" src="https://user-images.githubusercontent.com/55681180/169694625-b6f1e6bb-55bd-4eee-911d-9195c7e89691.png">
-    - In the above figure, from diagonal plots we can argue that ctc_min, cwc_min, and csc_min are useful features since they are able to classifiy the duplicate and non-duplicate question pairs to some extent.
+    - In the above figure, from diagonal plots we can argue that ctc_min, cwc_min, and csc_min are useful features since they are able to classifiy the duplicate and non-duplicate question pairs to some extent though they are overlapping points as well
 
 
