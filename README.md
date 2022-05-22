@@ -31,5 +31,5 @@ word_common                       |  word_total                      |          
 - if the value fo word_share is <=0.2 then probability of non_duplicate pair is higher
 
 
-- ## [Final Approach]()
+- ## [Final Approach](https://github.com/stuck-in-local-optimum/qoura-questn-pairs/blob/main/src/bow-with-preprocessing-and-advanced-features.ipynb): preprocessing and in addition to bow used some advanced features
 
