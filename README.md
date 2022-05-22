@@ -63,7 +63,6 @@ word_common                       |  word_total                      |          
    - token_set_ratio    : token_set_ratio from fuzzywuzzy library
   
   
-  - #EDA on advanced features<br>
   min features                       |  max features                      |                  last and first word equal
 :--------------------------------:|:--------------------------------:|:--------------------------------: 
 <img width="612" alt="Screenshot 2022-05-22 at 17 25 08" src="https://user-images.githubusercontent.com/55681180/169694837-cef2d5ac-ea1c-4bc9-bbd1-68c368c398e8.png"> | <img width="612" alt="Screenshot 2022-05-22 at 17 52 24" src="https://user-images.githubusercontent.com/55681180/169694910-6c979e2b-e849-49c0-8f42-4f0500ae57f5.png">  |  <img width="414" alt="Screenshot 2022-05-22 at 17 54 15" src="https://user-images.githubusercontent.com/55681180/169694979-81c4243f-541e-43ed-ad09-429a89f76ebe.png">
