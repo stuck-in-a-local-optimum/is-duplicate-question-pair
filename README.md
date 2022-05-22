@@ -73,4 +73,6 @@ word_common                       |  word_total                      |          
 - similarly if the first_word_eq=1 then there is higher probability for not_duplicate question pair
 
 
+<img width="597" alt="Screenshot 2022-05-22 at 18 54 33" src="https://user-images.githubusercontent.com/55681180/169697420-b80fc469-4776-44b0-bb1a-6171528b4238.png">
+- Similarly we argue that all the fuzzy-features seems to be useful for the problem
 
