@@ -83,7 +83,7 @@ word_common                       |  word_total                      |          
 
 
 
-Pairplot of fuzz features |  plotted the data from 15 features to 3 using TSNE
+Pairplot of fuzz features |  plotted the data by reducing 15 features to 3 using TSNE
 :--------------------------------:|:--------------------------------:
 <img width="597" alt="Screenshot 2022-05-22 at 18 54 33" src="https://user-images.githubusercontent.com/55681180/169697420-b80fc469-4776-44b0-bb1a-6171528b4238.png">| <img width="374" alt="Screenshot 2022-05-22 at 19 28 46" src="https://user-images.githubusercontent.com/55681180/169698946-1bd83bed-fdc6-4969-baa5-eb7d114d2671.png">
 
