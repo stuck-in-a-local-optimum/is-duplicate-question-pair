@@ -32,11 +32,29 @@ word_common                       |  word_total                      |          
 
 
 - ## [Final Approach](https://github.com/stuck-in-local-optimum/qoura-questn-pairs/blob/main/src/bow-with-preprocessing-and-advanced-features.ipynb): preprocessing and advanced features
-- so far we haven't done any preprocessing
-- In this approach I had done following preprocessing on text of question1 and question2
+- so far we haven't done any preprocessing, preprocessing would definitely improve our model's performance
+- following preprocessing had been done on text of question1 and question2
   - replaced al special characters with their string equivalents, e.g., % --> percent
   - the pattern '[math]' appeared 900 times in the data, replaced them with ""
   - expanded the contracting words, e.g., "ain't" --> "am not"
   - removed html tags
   - removed punctuations
+
+- After reading different blogs and kaggle notebooks I got to know to solve this problem we need to create some advanced features
+- After collecting from different kaggle notebooks and blogs I had used following advanced features
+  - TOKEN FEATURES
+   -  cwc_min      : this is the ratio of no. of common words to the length of the smaller question
+   -  cwc_max      : this is the ratio of no. of common words to the length of the larger question
+   -  csc_min      : this is the ratio of no. of common stop words to the smaller stop word count among the two questions
+   -  csc_max      : this is the ratio of no. of common words to the length of the larger question
+   -  ctc_min      : this is the ratio of the number of common tokens to the smalller token count among the two questions
+   -  ctc_max      : this is the ratio of the number of common tokens to the larger token count among the two questions
+   -  last_word_eq : 1 if the last word in the two questions is same, 0 otherwise  
+   -  first_word_eq: 1 if the first word in the two questions is same, 0 otherwise  
+ - LENGTH BASED FEATURES
+   - mean_len             : mean of the lenght of two questions (no. of words)
+   - abs_len_diff         : Absolute difference between the length of the two questions (no. of words)
+   - longest_substr_ratio : ration of hte length of the longest substring among the tow questions to the length of smaller question
+  
+ - FUZZY FEATURES
 
