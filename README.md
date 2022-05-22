@@ -7,7 +7,7 @@
 - used 6007 features
 - 3000 bow features for q1 + 3000 bow features of q2
  
- -used following 7 additional features inspired from different kaggle notebooks:
+ -7 additional features inspired from different kaggle notebooks:
  1) q1_len   -> char of length of q1
  2) q2_len   -> char of length of q2
  3) q1_words -> no. of words in q1
