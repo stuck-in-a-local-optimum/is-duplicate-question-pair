@@ -54,7 +54,11 @@ word_common                       |  word_total                      |          
  - LENGTH BASED FEATURES
    - mean_len             : mean of the length of two questions (no. of words)
    - abs_len_diff         : Absolute difference between the length of the two questions (no. of words)
-   - longest_substr_ratio : ration of hte length of the longest substring among the tow questions to the length of smaller question
+   - longest_substr_ratio : ratio of the length of the longest substring among the two questions to the length of smaller question
   
- - FUZZY FEATURES
+ - FUZZY FEATURES: Following 4 features are taken from fuzzywuzzy library, [this](https://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/) short blog easily explained the same.
+  - fuzz_ratio         : fuzz_ratio score from fuzzywuzzy library
+  - fuzz_partial_ratio : fuzz_partial_ratio from fuzzywuzzy library
+  - token_sort_ratio   : token_sort_ratio from fuzzywuzzy library
+  - token_set_ratio    : token_set_ratio from fuzzywuzzy library
 
