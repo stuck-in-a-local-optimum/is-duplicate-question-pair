@@ -83,7 +83,7 @@ word_common                       |  word_total                      |          
 
 
 
-word_common                       |  word_total                      |                  word_share
-:--------------------------------:|:--------------------------------:|:--------------------------------: 
-<img width="389" alt="Screenshot 2022-05-22 at 01 03 57" src="https://user-images.githubusercontent.com/55681180/169666624-8597945b-9add-44f6-abb1-cab5f4c8c0a7.png">  | <img width="390" alt="Screenshot 2022-05-22 at 01 20 06" src="https://user-images.githubusercontent.com/55681180/169667007-98243566-be21-4ede-8da3-92b7738fe3a2.png"> | <img width="389" alt="Screenshot 2022-05-22 at 01 18 05" src="https://user-images.githubusercontent.com/55681180/169666948-5207561b-d074-4ce4-86a7-6a92a097bd1f.png">
+Pairplot of fuzz features |  plotted the data from 15 features to 3 using TSNE
+:--------------------------------:|:--------------------------------:
+<img width="597" alt="Screenshot 2022-05-22 at 18 54 33" src="https://user-images.githubusercontent.com/55681180/169697420-b80fc469-4776-44b0-bb1a-6171528b4238.png">| <img width="374" alt="Screenshot 2022-05-22 at 19 28 46" src="https://user-images.githubusercontent.com/55681180/169698946-1bd83bed-fdc6-4969-baa5-eb7d114d2671.png">
 
