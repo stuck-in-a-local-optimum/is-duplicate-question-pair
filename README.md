@@ -52,7 +52,7 @@ word_common                       |  word_total                      |          
    -  last_word_eq : 1 if the last word in the two questions is same, 0 otherwise  
    -  first_word_eq: 1 if the first word in the two questions is same, 0 otherwise  
  - LENGTH BASED FEATURES
-   - mean_len             : mean of the lenght of two questions (no. of words)
+   - mean_len             : mean of the length of two questions (no. of words)
    - abs_len_diff         : Absolute difference between the length of the two questions (no. of words)
    - longest_substr_ratio : ration of hte length of the longest substring among the tow questions to the length of smaller question
   
