@@ -73,17 +73,7 @@ word_common                       |  word_total                      |          
 - similarly if the first_word_eq=1 then there is higher probability for not_duplicate question pair
 
 
-
-- Similarly we argue that all the fuzzy-features seems to be useful for the problem
-
-        Pairplot of fuzz features                           |   plot the data from 15 features to 3 using TSNE
-<img width="597" alt="Screenshot 2022-05-22 at 18 54 33" src="https://user-images.githubusercontent.com/55681180/169697420-b80fc469-4776-44b0-bb1a-6171528b4238.png"> | <img width="374" alt="Screenshot 2022-05-22 at 19 28 46" src="https://user-images.githubusercontent.com/55681180/169698946-1bd83bed-fdc6-4969-baa5-eb7d114d2671.png"> 
- - we can see that creating these 15 features is useful for our problem
-
-
-
-
 Pairplot of fuzz features |  plotted the data by reducing 15 features to 3 using TSNE
 :--------------------------------:|:--------------------------------:
-<img width="597" alt="Screenshot 2022-05-22 at 18 54 33" src="https://user-images.githubusercontent.com/55681180/169697420-b80fc469-4776-44b0-bb1a-6171528b4238.png">| <img width="374" alt="Screenshot 2022-05-22 at 19 28 46" src="https://user-images.githubusercontent.com/55681180/169698946-1bd83bed-fdc6-4969-baa5-eb7d114d2671.png"> - here can see there are certain regions where only one color is dominating so we can say these 15 features are useful for our problem
+<img width="597" alt="Screenshot 2022-05-22 at 18 54 33" src="https://user-images.githubusercontent.com/55681180/169697420-b80fc469-4776-44b0-bb1a-6171528b4238.png"> <br> We can clearly argue that all the fuzzy-features seems to be useful based on above diagonal plots| <img width="374" alt="Screenshot 2022-05-22 at 19 28 46" src="https://user-images.githubusercontent.com/55681180/169698946-1bd83bed-fdc6-4969-baa5-eb7d114d2671.png"> <br> Here can see there are certain regions where only one color is dominating so we can say these 15 features are useful for our problem
 
