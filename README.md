@@ -32,7 +32,7 @@ word_common                       |  word_total                      |          
 
 
 - ## [Final Approach](https://github.com/stuck-in-local-optimum/qoura-questn-pairs/blob/main/src/bow-with-preprocessing-and-advanced-features.ipynb): preprocessing and advanced features
-- # so far we haven't done any preprocessing
+- so far we haven't done any preprocessing
 - In this approach I had done following preprocessing on text of question1 and question2
   - replaced al special characters with their string equivalents, e.g., % --> percent
   - the pattern '[math]' appeared 900 times in the data, replaced them with ""
