@@ -29,6 +29,12 @@ word_common                       |  word_total                      |          
 - Above we can see, if the value of word_common for a sample is <=4 then there is high probability for the pair to be non_duplicate pair
 - if the value of word_total for a sample <=20 then there is high probability for the pair to be duplicate pair
 - if the value fo word_share is <=0.2 then probability of non_duplicate pair is higher
+          word_common            |            word_total          |              word_share             |                   word_4        |
+:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------: 
+  |               <img width="364" alt="Screenshot 2022-05-22 at 13 11 31" src="https://user-images.githubusercontent.com/55681180/169684457-310101d5-63af-41d7-8f2a-c3eb7f03e6d5.png">
+              |            <img width="364" alt="Screenshot 2022-05-22 at 13 11 21" src="https://user-images.githubusercontent.com/55681180/169684462-cfc97f05-9bc5-467d-9282-44870a3239b4.png">
+               |                                  |
+<img width="358" alt="Screenshot 2022-05-22 at 13 11 09" src="https://user-images.githubusercontent.com/55681180/169684470-c0f48da3-b767-4971-b962-615e66582884.png">
 
 
 - ## [Final Approach](https://github.com/stuck-in-local-optimum/qoura-questn-pairs/blob/main/src/bow-with-preprocessing-and-advanced-features.ipynb): preprocessing and advanced features
