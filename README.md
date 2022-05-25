@@ -1,5 +1,5 @@
 # qoura-question-pair
- This is a NLP project to solve [this](https://www.kaggle.com/c/quora-question-pairs) kaggle competition by qoura.
+ This is a NLP project to solve [this](https://www.kaggle.com/c/quora-question-pairs) kaggle competition posted qoura for Duplicate-Question-Pair detection.
  
  
 - [Initial Approach](https://github.com/stuck-in-local-optimum/qoura-questn-pairs/blob/main/src/bow-with-basic-features.ipynb) : BOW WITH BASIC FEATURES
